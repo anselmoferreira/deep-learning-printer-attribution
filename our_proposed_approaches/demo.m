@@ -51,10 +51,8 @@ function demo()
 	fold=1;
 	disp('STARTING ANALYSIS ON LETTER E...');
 	run(['early_fusion/letter_e/main(' int2str(fold) ')']);
-	%sendmail2me('Letter E individual and early fusion finished');
 	disp('STARTING ANALYSIS ON LETTER A...');
         run(['early_fusion/letter_a/main(' int2str(fold) ')']);
-	%sendmail2me('Letter A individual and early fusion finished');
 	disp('STARTING LATE FUSION ON LETTERS E and A.');
         run(['late_fusion/late_fusion(' int2str(fold) ')']);
 	
