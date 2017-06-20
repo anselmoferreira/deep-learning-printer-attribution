@@ -1,7 +1,18 @@
 # deep-learning-printer-attribution
 Source code related to the paper "Data-Driven Feature Characterization Techniques for Laser Printer Attribution", published by IEEE Transactions on Information Forensics and Security.
 
-Authors: Anselmo Ferreira, Luca Bondi and  Paolo Bestagini
+If you use this code in your research don't forget to cite our work:
+
+@ARTICLE{7517389, 
+author={A. Ferreira and L. Bondi and L.Baroffio and P. Bestagini and J. Huang and S. Tubaro and J. A. dos Santos and A. Rocha}, journal={IEEE Transactions on Information Forensics and Security}, 
+title={Data Driven Approaches for Laser Printer Attribution}, 
+year={2017}, 
+volume={12}, 
+number={8}, 
+pages={1860-1873}
+}
+
+Source code authors: Anselmo Ferreira, Luca Bondi and  Paolo Bestagini
 
 INSTRUCTIONS
 
@@ -13,9 +24,7 @@ other_networks: Here you can do the experiments again but using individual deepe
 
 You must have the libraries MatconvNet to run our_proposed_approach and Caffe to run other_networks. Please check files readme.md inside each folder to know how to configure your code to run using these libraries. We don't give support on MatConvNet and caffe libraries, ok? look for forums related to these libraries to solve installation problems.
 
-If you use this code in your research don't forget to cite our work:
 
-@ARTICLE{7517389, author={A. Ferreira and L. Bondi and L.Baroffio and P. Bestagini and J. Huang and S. Tubaro and J. A. dos Santos and A. Rocha}, journal={IEEE Transactions on Information Forensics and Security}, title={Data Driven Approaches for Laser Printer Attribution}, year={2017}, volume={}, number={}, pages={}, month={To appear in July of 2017}}
 
 Any question, problems or suggestions with the code can be reported to Anselmo. E-mails for issues related to the source code can be sent to anselmo@szu.edu.cn or anselmo.ferreira@gmail.com
 
