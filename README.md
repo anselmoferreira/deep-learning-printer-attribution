@@ -20,7 +20,7 @@ The source code is divided in two parts:
 
 our_proposed_approach: here you can simulate the 5x2 cross validation results in the paper using our multiple representation of multiple data networks. Results can vary a little bit as here the code was updated to run in matconvnet version 23.
 
-other_networks: Here you can do the experiments again but using individual deeper neural networks such as the IMAGENET and GOOGLELENET. The code here is using the caffe library for Matlab.
+other_networks: Here you can do the experiments again but using individual deeper neural networks such as the IMAGENET and GOOGLELENET. The code here is using the caffe library for Matlab (under construction).
 
 You must have the libraries MatconvNet to run our_proposed_approach and Caffe to run other_networks. Please check files readme.md inside each folder to know how to configure your code to run using these libraries. We don't give support on MatConvNet and caffe libraries, ok? look for forums related to these libraries to solve installation problems.
 
