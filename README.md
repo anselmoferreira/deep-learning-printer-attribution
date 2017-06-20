@@ -6,17 +6,11 @@ If you use this code in your research don't forget to cite our work:
 @ARTICLE{7517389, 
 
 author={A. Ferreira and L. Bondi and L.Baroffio and P. Bestagini and J. Huang and S. Tubaro and J. A. dos Santos and A. Rocha}, 
-
 journal={IEEE Transactions on Information Forensics and Security}, 
-
 title={Data Driven Approaches for Laser Printer Attribution}, 
-
 year={2017}, 
-
 volume={12}, 
-
 number={8}, 
-
 pages={1860-1873}
 }
 
