@@ -1,7 +1,7 @@
 # deep-learning-printer-attribution
 Source code related to the paper "Data-Driven Feature Characterization Techniques for Laser Printer Attribution", published by IEEE Transactions on Information Forensics and Security.
 
-Author: Anselmo Ferreira, Paolo Bestagini and Luca Bondi
+Authors: Anselmo Ferreira, Luca Bondi and  Paolo Bestagini
 
 INSTRUCTIONS
 
